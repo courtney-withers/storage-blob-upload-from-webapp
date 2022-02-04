@@ -1,4 +1,4 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/b3bb2b9a-37a2-4ce3-98a6-ee758aa6013f/resourceGroups/courtneyCloudApp/providers/Microsoft.Web/sites/courtneyinthecloud",
-    "appService.deploySubpath": "ImageResizeWebApp"
+    // "appService.deploySubpath": "ImageResizeWebApp"
 }
