@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/ImageResizeWebApp/ImageResizeWebApp/bin/Debug/netcoreapp2.0/ImageResizeWebApp.dll",
+            "program": "${workspaceFolder}/ImageResizeWebApp/bin/Debug/netcoreapp2.0/ImageResizeWebApp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ImageResizeWebApp/ImageResizeWebApp",
+            "cwd": "${workspaceFolder}/ImageResizeWebApp",
             "stopAtEntry": false,
             // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
             "serverReadyAction": {
