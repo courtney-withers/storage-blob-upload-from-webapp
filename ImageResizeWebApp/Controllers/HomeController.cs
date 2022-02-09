@@ -10,6 +10,16 @@ namespace ImageResizeWebApp.Controllers
             return View();
         }
 
+        public IActionResult Tech()
+        {
+            return View();
+        }
+
+        public IActionResult Books()
+        {
+            return View();
+        }
+
         public IActionResult Error()
         {
             ViewData["RequestId"] = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
